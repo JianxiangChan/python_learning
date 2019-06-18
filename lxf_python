@@ -1,0 +1,33 @@
+<NotepadPlus>
+    <Project name="lxf_python">
+        <Folder name="1.first_py_program">
+            <File name="1.first_py_program\hello.py" />
+        </Folder>
+        <Folder name="2.base_of_py">
+            <File name="2.base_of_py\1.tpye.py" />
+            <File name="2.base_of_py\2.str_and_encode.py" />
+            <File name="2.base_of_py\3.list_and_tuple" />
+            <File name="2.base_of_py\4.list_and_tuple.py" />
+            <File name="2.base_of_py\5.condition.py" />
+            <File name="2.base_of_py\1.tpye.py" />
+            <File name="2.base_of_py\2.str_and_encode.py" />
+            <File name="2.base_of_py\3.list_and_tuple" />
+            <File name="2.base_of_py\4.list_and_tuple.py" />
+            <File name="2.base_of_py\5.condition.py" />
+            <File name="2.base_of_py\6.loop.py" />
+            <File name="2.base_of_py\7.dict_and_set.py" />
+        </Folder>
+        <Folder name="3.function">
+            <File name="3.function\1.function_use.py" />
+            <File name="3.function\2.function_define.py" />
+            <File name="3.function\3.function_para.py" />
+            <File name="3.function\4.function_recursive.py" />
+        </Folder>
+        <Folder name="4.advance_feature">
+            <File name="4.advance_feature\1.slice.py" />
+            <File name="4.advance_feature\2.recursive.py" />
+            <File name="4.advance_feature\3.list_cpmprehensions.py" />
+            <File name="4.advance_feature\4.generator.py" />
+        </Folder>
+    </Project>
+</NotepadPlus>
